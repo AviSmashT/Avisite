@@ -40,15 +40,15 @@ p{
 }
 .topCloud{
   position: absolute;
-  right: 300px;
-  top: 60px;
+  right: 20%;
+  top: 10%;
   width: 10%;
 }
 
 .bottomCloud{
   position: absolute;
-  left: 300px;
-  bottom: 300px;
+  left: 20%;
+  bottom: 40%;
   width: 10%;
 }
 .mountain{
